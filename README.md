@@ -8,8 +8,8 @@ The `pod_cleanup.sh` script is intended to be used in a Kubernetes environment t
 
 
 ## Prerequisites
--- **Kubernetes CLI (kubectl)**: Ensure you have kubectl installed and configured to access your Kubernetes cluster.
--- **jq**: The script uses jq to parse JSON. Make sure jq is installed on your system.
+**Kubernetes CLI (kubectl)**: Ensure you have kubectl installed and configured to access your Kubernetes cluster.
+**jq**: The script uses jq to parse JSON. Make sure jq is installed on your system.
 
 
 ## How It Works
